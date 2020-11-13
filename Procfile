@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True interactive.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --NotebookApp.password='presoc' interactive.ipynb
